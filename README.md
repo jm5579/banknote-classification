@@ -83,3 +83,8 @@ The objective is to build an automated system to classify and authenticate USD b
 - Optimize the model for mobile and embedded deployment
 - Use larger and more diverse datasets for better generalization
 - Explore model quantization and pruning for faster inference
+
+
+## Acknowledgements
+- Course: Deep Learning with PyTorch
+- Dataset Source: Kaggle Contributor
